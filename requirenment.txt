@@ -1,0 +1,17 @@
+Flask
+Flask-sqlalchemy
+mysqlclient
+flask-restx
+werkzeug
+python-dotenv
+pymysql
+dotenv
+flask-cors
+streamlit
+requests
+Flask
+flask-cors
+streamlit
+requests
+plotly
+pandas
