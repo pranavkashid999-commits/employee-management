@@ -8,3 +8,5 @@ class User(db.Model):
     username = db.Column(db.String(255), nullable=False)
     password = db.Column(db.String(255), nullable=False)
     role = db.Column(db.String(255), nullable=False, default="admin")
+
+    #employee management
