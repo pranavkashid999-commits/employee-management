@@ -10,3 +10,8 @@ class User(db.Model):
     role = db.Column(db.String(255), nullable=False, default="admin")
 
     #employee management
+
+    #employeemanagement
+
+
+    #for demo purposS
